@@ -4,6 +4,7 @@
 
 * Kubernetes 1.6+
 * Artifactory Pro trial license [get one from here](https://www.jfrog.com/artifactory/free-trial/)
+* This version of the Helm chart is for use with the AWS Container Marketplace, and is currently using Artifactory 6.5.3
 
 ## Chart Details
 This chart will do the following:
