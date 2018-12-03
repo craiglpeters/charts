@@ -59,7 +59,7 @@ artifactory:
   image:
     # repository: "docker.bintray.io/jfrog/artifactory-oss"
     # replacing with the AWS Container Registry location for AWS Container Marketplace
-    repository: "217273820646.dkr.ecr.us-east-1.amazonaws.com/8646e787-2a86-47cc-982a-b8a1e1b414cb/cg-2395421943/artifactory-pro:1543276066"
+    repository: "217273820646.dkr.ecr.us-east-1.amazonaws.com/8646e787-2a86-47cc-982a-b8a1e1b414cb/cg-2395421943/artifactory-pro:latest"
     # Note that by default we use appVersion to get image tag
     # version:
     pullPolicy: IfNotPresent
